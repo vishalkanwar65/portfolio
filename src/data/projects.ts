@@ -64,7 +64,7 @@ export const projects: Project[] = [
     summary:
       "A multi-tenant GenAI platform that turns any clinic's knowledge into an embeddable, multilingual AI assistant — built from the ground up with a provider-agnostic LLM layer, dynamic prompt system, and self-serve onboarding.",
     tags: ["GenAI", "LLM", "Prompt Engineering", "Next.js", "Multi-tenant"],
-    cover: "/images/opticare/cover.png",
+    cover: "/images/opticare/hero.png",
     accent: "accent",
     published: true,
     status: "live",
@@ -122,9 +122,9 @@ export const projects: Project[] = [
     ],
     images: [
       {
-        src: "/images/opticare/cover.png",
-        alt: "OptiCare AI embeddable chat widget showing a multilingual clinic assistant",
-        caption: "The embeddable assistant — per-tenant branding, voice input, and six languages.",
+        src: "/images/opticare/hero.png",
+        alt: "OptiCare AI landing page with the embeddable multilingual clinic chat assistant",
+        caption: "The live OptiCare AI product — landing page with the embeddable assistant (voice input, six languages, per-tenant branding).",
       },
     ],
     outcome:
@@ -191,8 +191,13 @@ export const projects: Project[] = [
     images: [
       {
         src: "/images/responsive-qa/cover.png",
-        alt: "Responsive QA report showing severity-rated findings across viewports",
-        caption: "A real run across five viewports with reproducible, severity-rated findings.",
+        alt: "Desktop screenshot captured during a responsive QA run across viewports",
+        caption: "A real QA run — desktop capture from the automated five-viewport pass with reproducible, severity-rated findings.",
+      },
+      {
+        src: "/images/responsive-qa/mobile.png",
+        alt: "Mobile viewport screenshot captured during the same responsive QA run",
+        caption: "Same run at a mobile viewport — layout and interaction verified across the breakpoint matrix.",
       },
     ],
     outcome:

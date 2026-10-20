@@ -1,6 +1,6 @@
 # Design Technologist — GenAI Portfolio
 
-**Live:** https://portfolio-kxhwn6gkw-vishalkanwar65.vercel.app
+**Live:** https://portfolio-git-main-vishalkanwar65.vercel.app
 
 A Next.js + Tailwind portfolio tailored to Amazon's **Sr. Design Technologist, eShop Content Services** role. It foregrounds production GenAI work and design process over static mockups. Deployed on Vercel with auto-deploy on every push to `main`.
 
